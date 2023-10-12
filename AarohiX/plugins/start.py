@@ -41,7 +41,7 @@ async def start_comm(client, message: Message, _):
             keyboard = help_pannel(_)
             await message.reply_sticker("CAACAgUAAx0CX6C1HAABBN6GZRufBQn7-Q6VAsfT2Ig-UomO4gsAAiAJAALYlPhVFQEQwkymjlQeBA")
             await message.reply_sticker("CAACAgUAAx0CcOKqzQACAcllJ_uKza9w00C7Ujp0YeC5LIlhpwAC_ggAAiumiVU8yJ8O1B1GHzAE")
-            await message.reply_sticker("CAACAgUAAx0CcOKqzQACAcllG53pRoO8430kqGUiM-ar9yTYNQAC_ggAAiumiVU8yJ8O1B1GHzAE")
+            await message.reply_sticker("CAACAgEAAx0CcOKqzQACActlKAbfeHGEu5aS2HchOebOP3Y-RQACwwEAAhMkAAFHZN3tryvTAAHzMAQ")
             await message.reply_sticker("CAACAgUAAx0CcOKqzQACAfhlJ_w1rYgdJ9b4cIwwvDmemMoE5QACwwQAAq29-Ve0JjnLjYFFYjAE")
             return await message.reply_photo(
                        photo=config.START_IMG_URL,
@@ -197,7 +197,7 @@ async def start_comm(client, message: Message, _):
             try:
                 await message.reply_sticker("CAACAgUAAx0CX6C1HAABBN6GZRufBQn7-Q6VAsfT2Ig-UomO4gsAAiAJAALYlPhVFQEQwkymjlQeBA")
                 await message.reply_sticker("CAACAgUAAx0CcOKqzQACAcllJ_uKza9w00C7Ujp0YeC5LIlhpwAC_ggAAiumiVU8yJ8O1B1GHzAE")
-                await message.reply_sticker("CAACAgUAAx0CcOKqzQACAcllG53pRoO8430kqGUiM-ar9yTYNQAC_ggAAiumiVU8yJ8O1B1GHzAE")
+                await message.reply_sticker("CAACAgEAAx0CcOKqzQACActlKAbfeHGEu5aS2HchOebOP3Y-RQACwwEAAhMkAAFHZN3tryvTAAHzMAQ")
                 await message.reply_sticker("CAACAgUAAx0CcOKqzQACAfhlJ_w1rYgdJ9b4cIwwvDmemMoE5QACwwQAAq29-Ve0JjnLjYFFYjAE")
                 await message.reply_photo(
                     photo=config.START_IMG_URL,
