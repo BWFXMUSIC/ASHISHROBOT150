@@ -37,6 +37,11 @@ url=config.SUPPORT_GROUP
                 text="💝 𝐂ᴏ 𝐎ᴡɴᴇʀ 💝", url=f"https://t.me/MR_RAJA_ROY"
             ),
         ],
+        ]
+            InlineKeyboardButton(
+                text="🥰 𝐍𝙾𝙱𝙸𝚃𝙰 🥰", url=f"https://t.me/Sonu2860"
+            ),
+        ],
      ]
     return buttons
 
@@ -65,6 +70,11 @@ url=config.SUPPORT_GROUP
             InlineKeyboardButton(text="💖 𝐎ᴡɴᴇʀ 💖", user_id=OWNER),
             InlineKeyboardButton(
                 text="💝 𝐂ᴏ 𝐎ᴡɴᴇʀ 💝", url=f"https://t.me/MR_RAJA_ROY"
+            ),
+        ],
+        [
+            InlineKeyboardButton(
+                text="🥰 𝐍𝙾𝙱𝙸𝚃𝙰 🥰", url=f"https://t.me/Sonu2860"
             ),
         ],
         [
