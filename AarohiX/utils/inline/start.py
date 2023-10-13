@@ -69,7 +69,7 @@ url=config.SUPPORT_GROUP
         ],
         [
             InlineKeyboardButton(
-                    text="🌹 𝐒ᴛᴜᴅʏ 𝐆ʀᴏᴜᴘ  🌹", url=f"https://t.me/Study_House_Family"
+                    text="🌹 𝐍𝙾𝙱𝙸𝚃𝙰 🌹", url=f"https://t.me/Sonu2860"
             ),
            ],
      ]
