@@ -72,6 +72,11 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             ),
         ],
         [
+           InlineKeyboardButton(
+                text="🥰 𝐍𝙾𝙱𝙸𝚃𝙰 🥰", url=f"https://t.me/Sonu2860"
+            ),
+        ],
+        ]
             InlineKeyboardButton(
                 text="🌹𝐂ʟᴏ𝐬ᴇ🌹", callback_data="close"
             )
@@ -171,6 +176,11 @@ def stream_markup(_, videoid, chat_id):
             ),
         ],
         [
+           InlineKeyboardButton(
+                text="🥰 𝐍𝙾𝙱𝙸𝚃𝙰 🥰", url=f"https://t.me/MR_RAJA_ROY"
+            ),
+        ],
+        ]
             InlineKeyboardButton(
                 text="🌹𝐂ʟᴏ𝐬ᴇ🌹", callback_data="close"
             )
@@ -367,6 +377,9 @@ def queue_markup(_, videoid, chat_id):
             ),
         ],
         [
+           InlineKeyboardButton(
+                text="🥰 𝐍𝙾𝙱𝙸𝚃𝙰 🥰", url=f"https://t.me/Sonu2860"
+            ),
             InlineKeyboardButton(
                 text="🌹𝐂ʟᴏ𝐬ᴇ🌹", callback_data="close"
             )
