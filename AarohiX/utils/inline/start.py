@@ -34,7 +34,7 @@ url=config.SUPPORT_GROUP
             InlineKeyboardButton(
                 text="💖 𝐎ᴡɴᴇʀ 💖", user_id=OWNER),
             InlineKeyboardButton(
-                text="💝 𝐂ᴏ 𝐎ᴡɴᴇʀ 💝", url=f"https://t.me/MR_RAJA_ROY"
+                text="💝 𝐂ᴏ 𝐎ᴡɴᴇʀ 💝", url=f"https://t.me/Sonu2860"
             ),
         ],
      ]
@@ -64,7 +64,7 @@ url=config.SUPPORT_GROUP
         [
             InlineKeyboardButton(text="💖 𝐎ᴡɴᴇʀ 💖", user_id=OWNER),
             InlineKeyboardButton(
-                text="💝 𝐂ᴏ 𝐎ᴡɴᴇʀ 💝", url=f"https://t.me/MR_RAJA_ROY"
+                text="💝 𝐂ᴏ 𝐎ᴡɴᴇʀ 💝", url=f"https://t.me/Sonu2860"
             ),
         ],
         [
