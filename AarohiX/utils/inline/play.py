@@ -39,17 +39,17 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❣️",
+                text="",
                 callback_data=f"ADMIN Resume|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="❤️", callback_data=f"ADMIN Pause|{chat_id}"
+                text="", callback_data=f"ADMIN Pause|{chat_id}"
             ),
             InlineKeyboardButton( 
-                text="👑", url=f"https://t.me/itz_Lucky_Raja",
+                text="", url=f"https://t.me/itz_Lucky_Raja",
             ),
             InlineKeyboardButton(
-                text="💖", callback_data=f"ADMIN Skip|{chat_id}"
+                text="", callback_data=f"ADMIN Skip|{chat_id}"
             ),
             InlineKeyboardButton(
                 text="💝", callback_data=f"ADMIN Stop|{chat_id}"
@@ -57,18 +57,18 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❣️𝐁ᴀᴅ𝗌ʜᴀʜ❣️", url=f"https://t.me/Shivans_Raj_BrockenHart",
+                text="❣️𝐁ᴀᴅ𝗌ʜᴀʜ❣️", url=f"https://t.me/SHAYRI_CHANNEL1",
             ),
             InlineKeyboardButton(
-                text="❤️𝐁ᴇɢᴀᴍ❤️", url=f"https://t.me/Ziddi_Rani",
+                text="❤️𝐁ᴇɢᴀᴍ❤️", url=f"",
             ),
         ],
         [
            InlineKeyboardButton(
-                text="💖𝐎ᴡɴᴇʀ💖",               url=f"https://t.me/itz_Lucky_Raja",
+                text="💖𝐎ᴡɴᴇʀ💖",               url=f"https://t.me/L2R_KING0",
             ),
            InlineKeyboardButton(
-                text="💝𝐂ᴏ 𝐎ᴡɴᴇʀ💝", url=f"https://t.me/Sonu2860",
+                text="💝𝐂ᴏ 𝐎ᴡɴᴇʀ💝", url=f"",
             ),
         ],
         [
