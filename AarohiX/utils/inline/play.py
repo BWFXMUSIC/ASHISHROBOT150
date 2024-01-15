@@ -52,7 +52,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="", callback_data=f"ADMIN Skip|{chat_id}"
             ),
             InlineKeyboardButton(
-                text="💝", callback_data=f"ADMIN Stop|{chat_id}"
+                text="", callback_data=f"ADMIN Stop|{chat_id}"
             ),
         ],
         [
@@ -60,7 +60,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="❣️𝐁ᴀᴅ𝗌ʜᴀʜ❣️", url=f"https://t.me/SHAYRI_CHANNEL1",
             ),
             InlineKeyboardButton(
-                text="❤️𝐁ᴇɢᴀᴍ❤️", url=f"",
+                text="❤️𝐁ᴇɢᴀᴍ❤️", url=f"https://t.me/MUSICBOT_OWNER",
             ),
         ],
         [
@@ -68,12 +68,12 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="💖𝐎ᴡɴᴇʀ💖",               url=f"https://t.me/L2R_KING0",
             ),
            InlineKeyboardButton(
-                text="💝𝐂ᴏ 𝐎ᴡɴᴇʀ💝", url=f"",
+                text="💝𝐂ᴏ 𝐎ᴡɴᴇʀ💝", url=f"https://t.me/BWF_MUSIC1",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="🌹𝐂ʟᴏ𝐬ᴇ🌹", callback_data="close"
+                text="", callback_data="close"
             )
         ],
     ]
